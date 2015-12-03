@@ -1,0 +1,38 @@
+# JOE state file v1.0
+search
+	backwards 0
+	ignore 0
+	replace 0
+	block_restrict 0
+done
+macros
+done
+files
+	"wp-config.php\n"
+	"wp-config.php\n"
+done
+find
+done
+replace
+done
+run
+done
+build
+done
+grep
+done
+cmd
+done
+math
+done
+yank
+	"database_name_here"
+	"username_here"
+	"password_here"
+	"define('AUTH_KEY',         'put your unique phrase here');\ndefine('SECURE_AUTH_KEY',  'put your unique phrase here');\ndefine('LOGGED_IN_KEY',    'put your unique phrase here');\ndefine('NONCE_KEY',        'put your unique phrase here');\ndefine('AUTH_SALT',        'put your unique phrase here');\ndefine('SECURE_AUTH_SALT', 'put your unique phrase here');\ndefine('LOGGED_IN_SALT',   'put your unique phrase here');\ndefine('NONCE_SALT',       'put your unique phrase here');\n"
+	"live"
+	"define('AUTH_KEY',         '_M@Twuh0F:@jmk]I~G{|BJ7.~PT9W(}<.UI.}G8Ux^CKhm#@*PVEfk<W`p^gdkE~');\ndefine('SECURE_AUTH_KEY',  '-G;HNUDq(qn@Guk5)+r$k,`sp!W~D_S*_&]O+Cx9!_:Y.NrEA=[e+Z/v)1x_6R}+');\ndefine('LOGGED_IN_KEY',    'c+bPDfk#tj;+tKSc)w%::^yaB3LAzyM,{c**->V5X[{+1i<xu53<1g-!aPWY_:0}');\ndefine('NONCE_KEY',        'D{O%~6Pv@W2Hyq7(/6;6Yd}~2Ph.2wOuVGF{`5;l(Xv]h|-Oo#_g;<tyQ:,?L@[J');\ndefine('AUTH_SALT',        '%n~mGeGTyG}h1(=l& g^B%W4-+Ktc6 mZa N|~59y%YVylrA&qH+T|WSEX<z Cdi');\ndefine('SECURE_AUTH_SALT', 'c[rI7|+.#A$7WGk@I/g5-6{JoIfsj#z/iGu|s+:!o3CnG,sxBByp@<:@Z:m+lwWF');\ndefine('LOGGED_IN_SALT',   'V/Ge-~0zsg1i$<Z(?&xD8mY%=$,F=p^& n~l|M@fe8[LGSVT;Gi:[^2isS[bev`1');\ndefine('NONCE_SALT',       'Quc7+iW+gy5&FSuxMKp)J@ok.gYmQ+?C+)8t7a?ElT`E_n74_lH~RLkLI7DWqS)7');\n"
+done
+file_pos
+	90 "wp-config.php"
+done

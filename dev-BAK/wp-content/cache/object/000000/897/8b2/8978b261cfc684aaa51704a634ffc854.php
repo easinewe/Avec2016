@@ -1,0 +1,23 @@
+ø<…S<?php exit; ?>a:1:{s:7:"content";a:15:{s:10:"_edit_lock";a:1:{i:0;s:12:"1403547635:3";}s:10:"_edit_last";a:1:{i:0;s:1:"3";}s:13:"_thumbnail_id";a:1:{i:0;s:3:"678";}s:46:"project_foreground-rollover-image_thumbnail_id";a:1:{i:0;s:3:"682";}s:46:"project_background-rollover-image_thumbnail_id";a:1:{i:0;s:3:"678";}s:31:"project_menu-image_thumbnail_id";a:1:{i:0;s:3:"688";}s:16:"project_archived";a:1:{i:0;s:0:"";}s:15:"project_gallery";a:1:{i:0;s:3714:"<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Covers.jpg"><img class="alignright size-full wp-image-682 large-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Covers.jpg" alt="RonHaviv-Covers" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-cities-black.jpg"><img class="small-project-image alignright wp-image-680 size-full" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-cities-black.jpg" alt="" width="511" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Haiti.jpg"><img class="alignright size-full wp-image-684 small-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Haiti.jpg" alt="RonHaviv-Haiti" width="1600" height="1000" /></a>
+<blockquote>Haviv is also a co-founder of VII Photo Agency, which is dedicated to documenting change, conflict, and development of individuals, cultures and societies worldwide.</blockquote>
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spreads.jpg"><img class="alignright size-full wp-image-690 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spreads.jpg" alt="RonHaviv-Spreads" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spread2.jpg"><img class="alignright size-full wp-image-688 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spread2.jpg" alt="RonHaviv-Spread2" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Darfur.jpg"><img class="alignright size-full wp-image-683 large-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Darfur.jpg" alt="RonHaviv-Darfur" width="1600" height="1000" /></a>
+<blockquote>‚ÄúI believe and have dedicated my life to witnessing history in an attempt to create a body of evidence that holds people accountable.‚Äù ‚Äî Ron Haviv</blockquote>
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spreadclean.jpg"><img class="alignright size-full wp-image-689 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spreadclean.jpg" alt="RonHaviv-Spreadclean" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spread1.jpg"><img class="alignright size-full wp-image-687 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Spread1.jpg" alt="RonHaviv-Spread1" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Testimony.jpg"><img class="alignright size-full wp-image-691 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-Testimony.jpg" alt="RonHaviv-Testimony" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-press-white.jpg"><img class="alignright size-full wp-image-686 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-press-white.jpg" alt="RonHaviv-press-white" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-press-black.jpg"><img class="alignright size-full wp-image-685 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-press-black.jpg" alt="RonHaviv-press-black" width="1600" height="1000" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-bosnia.jpg"><img class="alignright size-full wp-image-679 small-project-image" src="http://dev.avec.us/wp-content/uploads/2014/05/RonHaviv-bosnia.jpg" alt="RonHaviv-bosnia" width="1600" height="1000" /></a>";}s:11:"recognition";a:1:{i:0;s:0:"";}s:15:"between_slashes";a:1:{i:0;s:57:"Bearing Witness, Documentation, War Photography, Evidence";}s:11:"color_space";a:1:{i:0;s:6:"000000";}s:9:"meta_desc";a:1:{i:0;s:34:"Exhibition catalogue for @RonHaviv";}s:9:"meta_keys";a:1:{i:0;s:101:"war, photography, war photographers, catalogue, exhibition, Afghanistan, bosnia, darfur, africa, iraq";}s:16:"project_services";a:1:{i:0;s:32:"a:2:{i:0;s:2:"46";i:1;s:2:"50";}";}s:12:"_wp_old_slug";a:1:{i:0;s:29:"ron-haviv-testimony-1989-2013";}}}

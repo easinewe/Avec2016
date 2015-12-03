@@ -1,0 +1,123 @@
+From you@avec.us Mon Dec 29 08:21:20 2014
+Delivered-To: www-avec@bah3.hausinteractive.com
+Return-Path: <you@avec.us>
+Received: from mail-wg0-f47.google.com (mail-wg0-f47.google.com [::ffff:74.125.82.47])
+  by bah3.hausinteractive.com with ESMTP; Mon, 29 Dec 2014 08:21:19 -0800
+  id 00000000002C000E.0000000054A17F7F.000031DC
+Received: by mail-wg0-f47.google.com with SMTP id n12so19269385wgh.34
+        for <www-avec@bah3.hausinteractive.com>; Mon, 29 Dec 2014 08:21:18 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-type:content-transfer-encoding:content-disposition
+         :precedence:auto-submitted;
+        bh=7FpNJy36Pmg9OZB+lFc93n7BT1NM5gvpAPPx3EWK6wE=;
+        b=a59DHbj4EXfxq9NgWW7pbjfUD8lD/EEEloyDVsIMJs7uPzOlUNn93yGAfjmO2WnX6k
+         lsIKG2IeWnNojt4/85WN9NbvWTJYkPOIgjRk9DpSeJlqkbA9Wxy6RY91VSnG0vef+Ptp
+         N8EIZp6NY3UiFl4GAcGTsij7ortApXqcluTpGictpvgW2VkTd1vApnPJ0c9TdKqMRdH2
+         ayaLmOlRTBwT7KmX9UP9gjJ6WywYZBpdI8obG/iFqX99+mfgr2cMkeU9N0Fi7igzBFzr
+         2lKmTr7wO3+U5FFghsFL6CKe+J1MTJ7222ltrUofeWJoxsxHlsUpYIEIoF3JLG+NFnA9
+         qI0w==
+X-Gm-Message-State: ALoCoQnHPYx+wmZS0jLkWw31R/ZpKBdrXjUcXLdxrAx2N3ReSZA525RgzJm3KZ/z01yKYU3M3BdV
+X-Received: by 10.180.76.201 with SMTP id m9mr96243398wiw.52.1419870078587;
+        Mon, 29 Dec 2014 08:21:18 -0800 (PST)
+To: www-avec@bah3.hausinteractive.com
+From: "Avec You //" <you@avec.us>
+Date: Mon, 29 Dec 2014 08:21:18 -0800
+Message-ID: <CA+FAVRqVKCxVJc-28rYvcFm2p1-UBy7AnaE3FdpSw5uRczHmNw@mail.gmail.com>
+Subject: Holidays Re: [Avec] WordPress 4.1 is available. Please update!
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+PGRpdiBkaXI9Imx0ciI+VGhhbmsgeW91IGZvciB5b3VyIGVtYWlsLjxicj48YnI+VGhlIEF2ZWMg
+b2ZmaWNlcyB3aWxsIGJlIGNsb3NlZCBmcm9tIERlY2VtYmVyIDI0IHVudGlsIEphbiA1dGguwqA8
+ZGl2Pjxicj48L2Rpdj48ZGl2Pkkgd2lsbCBoYXZlIGxpbWl0ZWQgYWNjZXNzIHRvIGVtYWlsIGR1
+cmluZyB0aGlzIHRpbWUsIHNvIGlmIHlvdSBoYXZlIGFueSBpbW1lZGlhdGUgbmVlZHMsIHBsZWFz
+ZSBjb250YWN0IExhdXJlbiBHcmVlbiwgPGEgaHJlZj0ibWFpbHRvOmxhdXJlbkBhdmVjLnVzIiB0
+YXJnZXQ9Il9ibGFuayI+bGF1cmVuQGF2ZWMudXM8L2E+wqBhbmQgb25lIG9mIHVzIHdpbGwgZ2V0
+IGJhY2sgdG8geW91IGFzIHNvb24gYXMgcG9zc2libGUuIMKgPGRpdj48YnI+VGhhbmsgeW91IGFu
+ZCBoYXBweSBob2xpZGF5cyE8L2Rpdj48L2Rpdj48L2Rpdj48YnIvPjxici8+LS0gPGJyLz48ZGl2
+IGRpcj0ibHRyIj48ZGl2IHN0eWxlPSJmb250LWZhbWlseTpIZWx2ZXRpY2EiPjxiPjxmb250IGNv
+bG9yPSIjMDAwMDAwIiBzaXplPSIxIj48YnI+PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJm
+b250LWZhbWlseTpIZWx2ZXRpY2EiPjxiPjxmb250IGNvbG9yPSIjMDAwMDAwIiBzaXplPSIxIj48
+YnI+PC9mb250PjwvYj48L2Rpdj48ZGl2IHN0eWxlPSJmb250LWZhbWlseTpIZWx2ZXRpY2EiPjxi
+Pjxmb250IGNvbG9yPSIjMDAwMDAwIiBzaXplPSIxIj48YnI+PC9mb250PjwvYj48L2Rpdj48ZGl2
+IHN0eWxlPSJmb250LWZhbWlseTpIZWx2ZXRpY2EiPjxiPjxmb250IGNvbG9yPSIjMDAwMDAwIiBz
+aXplPSIxIj5BdmVjIC8vPC9mb250PjwvYj48YnI+PC9kaXY+PGRpdiBzdHlsZT0iZm9udC1mYW1p
+bHk6SGVsdmV0aWNhIj48ZGl2PjxkaXY+PGZvbnQgY29sb3I9IiMwMDAwMDAiIHNpemU9IjEiPjI2
+NSBDYW5hbCBTdHJlZXQswqAjNTA5PC9mb250PjwvZGl2PjxkaXY+PGZvbnQgY29sb3I9IiMwMDAw
+MDAiIHNpemU9IjEiPk5ldyBZb3JrLCBOWSAxMDAxMzwvZm9udD48L2Rpdj48ZGl2PjxiPjxzcGFu
+IHN0eWxlPSJmb250LXdlaWdodDpub3JtYWwiPjxmb250IGNvbG9yPSIjMDAwMDAwIiBzaXplPSIx
+Ij48YnI+PC9mb250Pjwvc3Bhbj48L2I+PC9kaXY+PGRpdj48Zm9udCBjb2xvcj0iIzAwMDAwMCIg
+c2l6ZT0iMSI+KzEgMjEyIDUzNyA2NjA3PC9mb250PjwvZGl2PjxkaXY+PHU+PGEgaHJlZj0iaHR0
+cDovL3d3dy5hdmVjLnVzLyIgdGFyZ2V0PSJfYmxhbmsiPjxmb250IGNvbG9yPSIjMDAwMDAwIiBz
+aXplPSIxIj5hdmVjLnVzPC9mb250PjwvYT48L3U+PC9kaXY+PGRpdj48Zm9udCBzaXplPSIxIiBj
+b2xvcj0iIzAwMDAwMCI+PGEgaHJlZj0iaHR0cDovL3d3dy50d2l0dGVyLmNvbS9hdmVjeW91IiB0
+YXJnZXQ9Il9ibGFuayI+QGF2ZWN5b3U8L2E+PC9mb250PjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwv
+ZGl2PjxkaXY+PGZvbnQgY29sb3I9IiMwMDAwMDAiIHNpemU9IjEiPjIwMTQgV2ViYnkgQXdhcmQg
+d2lubmVyOsKgPGEgaHJlZj0iaHR0cDovL3d3dy5naWx0LmNvbS9hcHBzL2lwaG9uZSIgdGFyZ2V0
+PSJfYmxhbmsiPkdpbHQgaVBob25lPC9hPjwvZm9udD48L2Rpdj48ZGl2Pjxmb250IGNvbG9yPSIj
+MDAwMDAwIiBzaXplPSIxIj4yMDE0IFdlYmJ5IEhvbm9yZWU6wqA8YSBocmVmPSJodHRwOi8vd3d3
+LmdpbHQuY29tL2FwcHMvaXBob25lIiB0YXJnZXQ9Il9ibGFuayI+R2lsdCBpUGFkPC9hPjwvZm9u
+dD48L2Rpdj48L2Rpdj48L2Rpdj48YnIvPg0K
+From you@avec.us Tue May 12 17:43:43 2015
+Delivered-To: www-avec@bah3.hausinteractive.com
+Return-Path: <you@avec.us>
+Received: from mail-wi0-f176.google.com (mail-wi0-f176.google.com [::ffff:209.85.212.176])
+  by bah3.hausinteractive.com with ESMTP; Tue, 12 May 2015 17:43:42 -0700
+  id 00000000002E01E6.0000000055529E3E.00007332
+Received: by widdi4 with SMTP id di4so176640763wid.0
+        for <www-avec@bah3.hausinteractive.com>; Tue, 12 May 2015 17:43:39 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:to:from:date:message-id:subject:mime-version
+         :content-type:content-transfer-encoding:content-disposition
+         :precedence:auto-submitted;
+        bh=3+lEpKVvMvtL8UQJPtSVr6wI1JS7e96cNwiC7g2yv8c=;
+        b=Q60/mUO7nh3mPOLMSbcB3yS34ubrqQuL5nMbJSnX11fFoZwVhcmx/Zp3XtTqd5iGUF
+         BUCYvOUP4R8KCPi9xw+62dK9rc5W1Tl9dwcFoeKZYmciX0NIo+LnKyFHtO0p9qlKfSQy
+         xo9HUWttYmBkFWHJkk2UqsCqyAZA9jCd+p/4+GGTJhgtSJ14VX7vjxG0iIAyqklJAfJZ
+         qlzMywJJDl/juqSnFo1XN2Mx/vyO/OVxaicLXhJ9S0Qk7pxGSI/6srefngQ/X3yV4Vgx
+         A2joV/dHvcd622wY/ae5QfZy1EN/7SaWpFsRnCSg7umXDjcADBo/vpwe1nPqv8mAftFw
+         7z4g==
+X-Gm-Message-State: ALoCoQnTkOZ4ZTrUEjYZIgT2AhqYoQof3v/CyPFXIPKevx+Z4NElt2VhbK28mBmAcG5NEyCPjhNh
+X-Received: by 10.194.89.130 with SMTP id bo2mr34189082wjb.17.1431477819514;
+        Tue, 12 May 2015 17:43:39 -0700 (PDT)
+To: www-avec@bah3.hausinteractive.com
+From: "Avec You //" <you@avec.us>
+Date: Tue, 12 May 2015 17:43:39 -0700
+Message-ID: <CA+FAVRojJw4KL-d+Oe=A9A+RuJ0Bbo-q1bXgT0cUOR5OD3F7bQ@mail.gmail.com>
+Subject: Out of Office Re: [Avec] Your site has updated to WordPress 3.9.6
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Precedence: bulk
+X-Autoreply: yes
+Auto-Submitted: auto-replied
+
+Thank you for your email.
+
+The Avec office will be traving the week of May 11. We will have
+limited access to email during this time, but one of us will get
+back to you as soon as possible.
+
+Thank you!
+
+
+-- 
+
+
+
+*Avec //*
+265 Canal Street, #509
+New York, NY 10013
+
++1 212 537 6607
+*avec.us <http://www.avec.us/>*
+@avecyou <http://www.twitter.com/avecyou>

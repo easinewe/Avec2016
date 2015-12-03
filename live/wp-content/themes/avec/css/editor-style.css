@@ -1,0 +1,39 @@
+/*
+Theme Name: avec
+Author: Devona
+Author URI: http://devona.com
+Description: Used to style the TinyMCE editor.
+Version: 14.0424
+*/
+.large-project-image,
+.medium-project-image,
+.small-project-image {
+	float:left;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #ff0000;
+}
+blockquote {
+	float:left;
+	margin: 0px;
+	overflow: hidden;
+	width: 33.333333%;
+}
+.large-project-image img,
+.medium-project-image img,
+.small-project-image img  {
+	width: 100%;
+    height: auto;
+}
+.large-project-image {
+	width: 66.666666%;
+    height: auto;
+}
+.medium-project-image {
+	width: 50%;
+    height: auto;
+}
+.small-project-image{
+	width: 33.333333%;
+    height: auto;
+}

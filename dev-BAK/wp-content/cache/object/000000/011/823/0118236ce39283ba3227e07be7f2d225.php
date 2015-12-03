@@ -1,0 +1,1 @@
+¿<ÉS<?php exit; ?>a:1:{s:7:"content";a:6:{s:10:"_edit_lock";a:1:{i:0;s:12:"1404874803:3";}s:10:"_edit_last";a:1:{i:0;s:1:"3";}s:13:"external_link";a:1:{i:0;s:34:"http://dev.avec.us/studio/compost/";}s:12:"_wp_old_slug";a:1:{i:0;s:37:"fresh-left-overs-added-to-the-compost";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"1300";}s:32:"post_rollover-image_thumbnail_id";a:1:{i:0;s:4:"1299";}}}

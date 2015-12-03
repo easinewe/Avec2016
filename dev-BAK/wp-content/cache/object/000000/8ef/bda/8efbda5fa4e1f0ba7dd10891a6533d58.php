@@ -1,0 +1,27 @@
+¿<ÉS<?php exit; ?>a:1:{s:7:"content";a:14:{s:10:"_edit_lock";a:1:{i:0;s:12:"1404763698:4";}s:10:"_edit_last";a:1:{i:0;s:1:"4";}s:31:"project_menu-image_thumbnail_id";a:1:{i:0;s:4:"1142";}s:46:"project_foreground-rollover-image_thumbnail_id";a:1:{i:0;s:4:"1154";}s:16:"project_archived";a:1:{i:0;s:0:"";}s:15:"project_gallery";a:1:{i:0;s:4334:"<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-double.jpg"><img class="large-project-image alignright wp-image-1166 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-double.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-logo.jpg"><img class="small-project-image alignright wp-image-1147 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-logo.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-11.jpg"><img class="medium-project-image alignright wp-image-1163 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-11.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-21.jpg"><img class="medium-project-image alignright wp-image-1164 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-21.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-31.jpg"><img class="medium-project-image alignright wp-image-1165 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Homepage-31.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Quiz.jpg"><img class="alignright wp-image-1143 size-full medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Quiz.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-logo2.jpg"><img class="alignright size-full wp-image-1148 large-project-image" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-logo2.jpg" alt="YouBeauty-Categorypage-logo2" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-info.jpg"><img class="small-project-image alignright wp-image-1141 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-info.jpg" alt="" width="1400" height="875" /></a>
+<blockquote>Validated quizzes give users a 360-degree approach to their beauty, from the best lipstick and eye makeup shades to measuring stress and happiness levels.</blockquote>
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Articlepage-1.jpg"><img class="medium-project-image alignright wp-image-1161 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Articlepage-1.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Articlepage-2.jpg"><img class="medium-project-image alignright wp-image-1162 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Articlepage-2.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-type.jpg"><img class="alignright size-full wp-image-1149 small-project-image" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-type.jpg" alt="YouBeauty-Categorypage-type" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-1.jpg"><img class="alignright size-full wp-image-1144 large-project-image" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-1.jpg" alt="YouBeauty-Categorypage-1" width="1400" height="875" /></a>
+<blockquote>We also designed the branding and website for BeautySage, their sister e-commerce brand. <a title="BeautySage" href="http://dev.avec.us/project/beautysage/">Check it out</a>.</blockquote>
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-2a.jpg"><img class="medium-project-image alignright wp-image-1159 size-full" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-2a.jpg" alt="" width="1400" height="875" /></a>
+
+<a href="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-ipad.jpg"><img class="alignright size-full wp-image-1146 medium-project-image" src="http://dev.avec.us/wp-content/uploads/2014/06/YouBeauty-Categorypage-ipad.jpg" alt="YouBeauty-Categorypage-ipad" width="1400" height="875" /></a>";}s:11:"recognition";a:1:{i:0;s:0:"";}s:15:"between_slashes";a:1:{i:0;s:35:"Beauty, Wellness, Advice, Happiness";}s:11:"color_space";a:1:{i:0;s:6:"f48881";}s:9:"meta_desc";a:1:{i:0;s:71:"Branding, Identity & Site Design for @YouBeauty // designed by @Avecyou";}s:9:"meta_keys";a:1:{i:0;s:0:"";}s:16:"project_services";a:1:{i:0;s:101:"a:7:{i:0;s:2:"45";i:1;s:4:"1068";i:2;s:4:"1040";i:3;s:2:"48";i:4;s:2:"44";i:5;s:2:"50";i:6;s:2:"47";}";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"1160";}s:46:"project_background-rollover-image_thumbnail_id";a:1:{i:0;s:4:"1160";}}}
